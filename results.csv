@@ -138,3 +138,6 @@ timestamp,participant_ID,experimenter_ID_code,experimenter_ASGS_total_score,labo
 2018-05-08 20:31:40.149807,5,f6b6949b-81f6-4897-a7af-e63edf78cb0e,0,test_lab,0,test,true,no,18,female,,,,,,,28,left,left,test_reward,True
 2018-05-08 20:31:40.169813,5,f6b6949b-81f6-4897-a7af-e63edf78cb0e,0,test_lab,0,test,true,no,18,female,,,,,,,29,right,left,test_reward,False
 2018-05-08 20:31:40.187710,5,f6b6949b-81f6-4897-a7af-e63edf78cb0e,0,test_lab,0,test,true,no,18,female,,,,,,,30,right,right,test_reward,True
+2018-05-08 20:31:40.203131,5,f6b6949b-81f6-4897-a7af-e63edf78cb0e,0,test_lab,0,test,true,no,18,female,,,,,,,31,left,left,test_reward,True
+2018-05-08 20:31:40.224579,5,f6b6949b-81f6-4897-a7af-e63edf78cb0e,0,test_lab,0,test,true,no,18,female,,,,,,,32,right,right,test_reward,True
+2018-05-08 20:31:40.241753,5,f6b6949b-81f6-4897-a7af-e63edf78cb0e,0,test_lab,0,test,true,no,18,female,,,,,,,33,right,right,test_reward,True
