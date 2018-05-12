@@ -2,3 +2,4 @@ timestamp,participant_ID,experimenter_ID_code,experimenter_ASGS_total_score,labo
 Sat May 12 2018 20:07:38 GMT+0200 (CEST),,exp,0,lab,0,test,true,no,6543,Male,true,Definitely Does not,Definitely no,"No, never",very untrue,very untrue,0,left,right,sexual,false
 Sat May 12 2018 20:08:41 GMT+0200 (CEST),,exp,0,lab,0,test,true,no,6543,Male,true,Definitely Does not,Definitely no,"No, never",very untrue,very untrue,1,right,left,neutral,false
 Sat May 12 2018 20:08:45 GMT+0200 (CEST),,exp,0,lab,0,test,true,no,6543,Male,true,Definitely Does not,Definitely no,"No, never",very untrue,very untrue,2,left,right,sexual,false
+Sat May 12 2018 20:08:49 GMT+0200 (CEST),,exp,0,lab,0,test,true,no,6543,Male,true,Definitely Does not,Definitely no,"No, never",very untrue,very untrue,3,right,left,sexual,false
