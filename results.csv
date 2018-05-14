@@ -75,3 +75,4 @@ Mon May 14 2018 18:40:39 GMT+0200 (Central Europe Daylight Time),,test_exp_010,0
 Mon May 14 2018 18:40:45 GMT+0200 (Central Europe Daylight Time),,test_exp_010,0,test_lab_010,0,test,true,no,34,Female,true,Definitely Does not,Definitely yes,"No, never",untrue,very untrue,1,left,right,neutral,false
 Mon May 14 2018 18:40:50 GMT+0200 (Central Europe Daylight Time),,test_exp_010,1,test_lab_010,0,test,true,no,34,Female,true,Definitely Does not,Definitely yes,"No, never",untrue,very untrue,2,left,left,neutral,true
 Mon May 14 2018 18:42:04 GMT+0200 (Central Europe Daylight Time),,test_exp_010,1,test_lab_010,0,test,true,no,34,Female,true,Definitely Does not,Definitely yes,"No, never",untrue,very untrue,3,right,left,sexual,false
+Mon May 14 2018 18:42:13 GMT+0200 (Central Europe Daylight Time),,test_exp_010,2,test_lab_010,0,test,true,no,34,Female,true,Definitely Does not,Definitely yes,"No, never",untrue,very untrue,4,left,left,sexual,true
