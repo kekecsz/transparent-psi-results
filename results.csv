@@ -1,6 +1,2 @@
 timestamp,participant_ID,experimenter_ID_code,experimenter_ASGS_total_score,laboratory_ID_code,sitePI_ASGS_total_score,session_type,consent_screen_answer,refused_to_answer_sexual_orientation_question,age,sex,final_consent,ESP_Q_item_1,ESP_Q_item_2,ESP_Q_item_3,SS_Q_item_1,SS_Q_item_2,trial_number,guessed_side,target_side,reward_type,sides_match
-Sat May 12 2018 20:07:38 GMT+0200 (CEST),,exp,0,lab,0,test,true,no,6543,Male,true,Definitely Does not,Definitely no,"No, never",very untrue,very untrue,0,left,right,sexual,false
-Sat May 12 2018 20:08:41 GMT+0200 (CEST),,exp,0,lab,0,test,true,no,6543,Male,true,Definitely Does not,Definitely no,"No, never",very untrue,very untrue,1,right,left,neutral,false
-Sat May 12 2018 20:08:45 GMT+0200 (CEST),,exp,0,lab,0,test,true,no,6543,Male,true,Definitely Does not,Definitely no,"No, never",very untrue,very untrue,2,left,right,sexual,false
-Sat May 12 2018 20:08:49 GMT+0200 (CEST),,exp,0,lab,0,test,true,no,6543,Male,true,Definitely Does not,Definitely no,"No, never",very untrue,very untrue,3,right,left,sexual,false
-Sat May 12 2018 20:08:52 GMT+0200 (CEST),,exp,0,lab,0,test,true,no,6543,Male,true,Definitely Does not,Definitely no,"No, never",very untrue,very untrue,4,left,left,sexual,true
+Mon May 14 2018 14:39:56 GMT+0200 (Central Europe Daylight Time),,test_exp_001,0,test_lab_001,0,test,true,no,18,Male,true,Definitely Does not,Definitely no,"No, never",between true and untrue,between true and untrue,0,left,right,sexual,false
