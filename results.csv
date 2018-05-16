@@ -1,3 +1,4 @@
 timestamp,participant_ID,experimenter_ID_code,experimenter_ASGS_total_score,laboratory_ID_code,sitePI_ASGS_total_score,session_type,consent_screen_answer,refused_to_answer_sexual_orientation_question,age,sex,final_consent,ESP_Q_item_1,ESP_Q_item_2,ESP_Q_item_3,SS_Q_item_1,SS_Q_item_2,trial_number,guessed_side,target_side,reward_type,sides_match
 Wed May 16 2018 18:14:26 GMT+0200 (Central Europe Daylight Time),d7aa7999-5ce9-4a34-af64-0490a2b064a7,test_v2_001,1,test_v2_001,2,test,yes,no,0,female,true,NA,NA,NA,NA,NA,0,NA,NA,NA,true
 Wed May 16 2018 18:24:44 GMT+0200 (Central Europe Daylight Time),6a06052c-07a0-43e9-b848-398c5f9a9d17,test_v2_002,1,test_v2_002,2,test,yes,no,0,female,true,NA,NA,NA,NA,NA,0,NA,NA,NA,true
+Wed May 16 2018 18:25:24 GMT+0200 (Central Europe Daylight Time),225923b0-c61a-4fcb-b3a2-cf5b198943d5,test_v2_003,1,test_v2_003,2,test,yes,no,0,female,true,NA,NA,NA,NA,NA,0,NA,NA,NA,true
