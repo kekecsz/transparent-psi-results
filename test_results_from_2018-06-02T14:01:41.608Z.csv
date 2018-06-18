@@ -101,3 +101,4 @@ Sun Jun 17 2018 12:48:47 GMT+0200 (Central European Summer Time),31899e18-f219-4
 Mon Jun 18 2018 09:55:47 GMT+0200 (Central European Summer Time),6ffba862-8156-4e97-9600-2282adbc32cf,test_09,1,test_09,2,test,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Mon Jun 18 2018 09:56:03 GMT+0200 (Central European Summer Time),6ffba862-8156-4e97-9600-2282adbc32cf,test_09,1,test_09,2,test,yes,false,18-29,Male,NA,Don’t know,Probably no,"No, never",NA,NA,NA,NA,NA,NA,NA
 Mon Jun 18 2018 09:56:07 GMT+0200 (Central European Summer Time),6ffba862-8156-4e97-9600-2282adbc32cf,test_09,1,test_09,2,test,yes,false,18-29,Male,NA,Don’t know,Probably no,"No, never",very true,untrue,NA,NA,NA,NA,NA
+Mon Jun 18 2018 09:59:13 GMT+0200 (Central European Summer Time),6ffba862-8156-4e97-9600-2282adbc32cf,test_09,1,test_09,2,test,yes,false,18-29,Male,NA,Don’t know,Probably no,"No, never",very true,untrue,1,left,right,neutral,false
