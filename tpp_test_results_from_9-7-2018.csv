@@ -42,3 +42,4 @@ Wed Jul 11 2018 11:51:50 GMT+0200 (Central European Summer Time),6477035a-d0b6-4
 Wed Jul 11 2018 11:53:00 GMT+0200 (Central European Summer Time),6477035a-d0b6-4194-98a3-78260addf92b,test_01,1,test_01,2,test,yes,no,18-29,Male,yes,Probably does not,Definitely no,Regurarly no,NA,NA,NA,NA,NA,NA,NA
 Wed Jul 11 2018 23:02:12 GMT+0200 (CEST),a311e7a1-a9d6-4e88-8d07-c413f555f669,exp_ELTE_MZ_01,1,lab_ELTE_01,2,test,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 Wed Jul 11 2018 23:02:38 GMT+0200 (CEST),a311e7a1-a9d6-4e88-8d07-c413f555f669,exp_ELTE_MZ_01,1,lab_ELTE_01,2,test,yes,no,18-29,Male,yes,Don’t know,Probably no,Occasionally,NA,NA,NA,NA,NA,NA,NA
+Wed Jul 11 2018 23:02:43 GMT+0200 (CEST),a311e7a1-a9d6-4e88-8d07-c413f555f669,exp_ELTE_MZ_01,1,lab_ELTE_01,2,test,yes,no,18-29,Male,yes,Don’t know,Probably no,Occasionally,true,very untrue,NA,NA,NA,NA,NA
