@@ -722,3 +722,4 @@ Hit CTRL-C to stop the server
 [Sat Sep 01 2018 18:34:06 GMT+0000 (UTC)] "GET /favicon.ico" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon"
 [Sat Sep 01 2018 18:56:52 GMT+0000 (UTC)] "GET /phpmyadmin2/scripts/setup.php" "Mozilla/5.0"
 [Sat Sep 01 2018 18:56:52 GMT+0000 (UTC)] "GET /phpmyadmin2/scripts/setup.php" Error (404): "Not found"
+[Sat Sep 01 2018 19:24:57 GMT+0000 (UTC)] "GET /" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36"
