@@ -2337,3 +2337,4 @@ Hit CTRL-C to stop the server
 [Tue Sep 04 2018 07:55:18 GMT+0000 (UTC)] "GET /keys.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
 [Tue Sep 04 2018 07:55:18 GMT+0000 (UTC)] "GET /style.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
 [Tue Sep 04 2018 07:55:18 GMT+0000 (UTC)] "GET /script.js" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[Tue Sep 04 2018 07:55:50 GMT+0000 (UTC)] "GET /?" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
