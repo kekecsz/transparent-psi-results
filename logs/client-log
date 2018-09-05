@@ -3017,3 +3017,7 @@ Hit CTRL-C to stop the server
 [Wed Sep 05 2018 12:26:23 GMT+0000 (UTC)] "GET /style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
 [Wed Sep 05 2018 12:26:23 GMT+0000 (UTC)] "GET /script.js" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
 [Wed Sep 05 2018 12:26:24 GMT+0000 (UTC)] "GET /favicon.ico" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[Wed Sep 05 2018 12:30:02 GMT+0000 (UTC)] "GET /?" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[Wed Sep 05 2018 12:31:24 GMT+0000 (UTC)] "GET /" "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36"
+[Wed Sep 05 2018 12:36:04 GMT+0000 (UTC)] "GET /?" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[Wed Sep 05 2018 12:36:04 GMT+0000 (UTC)] "GET /favicon.ico" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
